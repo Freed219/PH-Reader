@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LectorPH</string>
+    <string name="hex_formate">Hex: #000000</string>
+    <string name="rgb_formate">RGB: 0,0,0</string>
+    <string name="ph_formate">PH: 0</string>
+    <string name="about_us">
+        <p> <b>About us</b>: ImageColorPicker is Another app from the <b>Androchunk</b> community.\n</p>\n
+
+        <p>This is a open source project for the android developers. You can Download android Project
+        from <a href="https://play.google.com/store/apps/details?id=com.navarro.imagecolorpicker"> Androchunk App </a>.</p>
+
+        <p>\n\n<b>Current version:</b> 1.0.0</p>
+
+        <p>\n\n<b>Join Us:</b></p>
+        <p>\n\n<a href="https://play.google.com/store/apps/details?id=com.navarro.imagecolorpicker">Androchunk</a></p>
+        <p>\n\n<a href="https://play.google.com/store/apps/details?id=com.navarro.imagecolorpicker">YouTube</a></p>
+        <p>\n\n<a href="https://play.google.com/store/apps/details?id=com.navarro.imagecolorpicker">FaceBook</a></p>
+        <p>\n\n<a href="https://play.google.com/store/apps/details?id=com.navarro.imagecolorpicker">GitHub</a></p>
+
+         <p>\n\n<b>Similar Open Source Projects:</b></p>
+         <p>\n\n<a href="https://play.google.com/store/apps/details?id=com.navarro.calculator">Calculator</a></p>
+
+
+    </string>
+</resources>
